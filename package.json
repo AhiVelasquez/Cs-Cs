@@ -1,0 +1,22 @@
+{
+  "name": "telbot",
+  "version": "1.0.0",
+  "description": "BotTelegram per l'università della Calabria",
+  "start": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattNot/Cs-Cs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattNot/Cs-Cs/issues"
+  },
+  "homepage": "https://github.com/MattNot/Cs-Cs#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.28.0"
+  }
+}
